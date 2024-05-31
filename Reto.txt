@@ -1,0 +1,4 @@
+[Ayer 21:41] anmartinezdq (Invitado)
+Reto #1: Generando nuestro primer repo
+Reto: Generar dentro del nuevo repositorio (Aztro_Nodo_<Nombre en Kebab_Case>), un fichero llamado introduction.md donde en formato MarkDown se presenten. (Nombre, breve introducción de quien eres y contacto institucional).
+ 
